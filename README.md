@@ -1,0 +1,2 @@
+# App Icon Resizer
+
